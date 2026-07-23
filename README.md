@@ -10,7 +10,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (M-TEC ADS) na ETEC Bragança Paulista, atualmente aprofundando conhecimentos em **PostgreSQL** e **Docker**. Também tenho noções básicas de **HTML**, **CSS** e **JavaScript**.
 
-Além da programação, tenho grande interesse em **cybersegurança**, área que venho estudando por conta própria e pretendo aprofundar ao longo da minha formação.
+Além da programação, tenho grande interesse em **cybersegurança**, área que venho estudando por conta própria e pretendo aprofundar ao longo da minha formação
 
 ---
 
